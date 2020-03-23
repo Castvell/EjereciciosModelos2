@@ -1,0 +1,23 @@
+img{	
+	width: 160px; height: 160px;
+	display:block;
+	margin:auto;
+}
+
+button{
+	display:block;
+	margin:auto;
+}
+
+h2{
+	color:white;
+	background-color: DodgerBlue;
+}
+
+h1{
+	font-variant:small-caps;
+}
+
+ h1,h2,#datos{
+	 text-align: center;
+ }
